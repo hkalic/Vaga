@@ -9,6 +9,7 @@ There is basic after fetch data editing (just in case).
 File with commands: vaga.kom
 File with response: vaga.odg
 
+Also credits for this project goes to my co-author Domino.
 
 PS: 
 - this is old project made with Delphi
