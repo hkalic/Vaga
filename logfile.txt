@@ -1,0 +1,143 @@
+06.01.2003 - 14:25:34:Try opening device [COM1]
+06.01.2003 - 14:25:34:COM_OPEN: Return [0]
+06.01.2003 - 14:25:34:COM_OPEN: Use direct connection
+06.01.2003 - 14:25:34:Device COM1 opened
+06.01.2003 - 14:25:34:Flushing receivequeue
+06.01.2003 - 14:25:34:Flushing transmitqueue
+06.01.2003 - 14:25:34:Trying to close communicationport
+06.01.2003 - 14:25:34:Communcationport closed
+06.01.2003 - 14:25:43:Flushing receivequeue
+06.01.2003 - 14:25:43:Wrong handle
+06.01.2003 - 14:25:43:Try opening device [COM1]
+06.01.2003 - 14:25:43:COM_OPEN: Return [0]
+06.01.2003 - 14:25:44:COM_OPEN: Use direct connection
+06.01.2003 - 14:25:44:Device COM1 opened
+06.01.2003 - 14:25:44:Flushing receivequeue
+06.01.2003 - 14:25:44:Flushing transmitqueue
+06.01.2003 - 14:25:44:Trying to close communicationport
+06.01.2003 - 14:25:44:Communcationport closed
+06.01.2003 - 14:31:01:Try opening device [COM1]
+06.01.2003 - 14:31:01:COM_OPEN: Return [0]
+06.01.2003 - 14:31:01:COM_OPEN: Use direct connection
+06.01.2003 - 14:31:01:Device COM1 opened
+06.01.2003 - 14:31:01:Flushing receivequeue
+06.01.2003 - 14:31:01:Flushing transmitqueue
+06.01.2003 - 14:31:01:Trying to close communicationport
+06.01.2003 - 14:31:01:Communcationport closed
+06.01.2003 - 14:34:43:Try opening device [COM1]
+06.01.2003 - 14:34:43:COM_OPEN: Return [0]
+06.01.2003 - 14:34:43:COM_OPEN: Use direct connection
+06.01.2003 - 14:34:43:Device COM1 opened
+06.01.2003 - 14:34:47:Flushing receivequeue
+06.01.2003 - 14:34:47:Flushing transmitqueue
+06.01.2003 - 14:34:47:Trying to close communicationport
+06.01.2003 - 14:34:47:Communcationport closed
+06.01.2003 - 14:34:50:Flushing receivequeue
+06.01.2003 - 14:34:50:Wrong handle
+06.01.2003 - 14:34:50:Try opening device [COM1]
+06.01.2003 - 14:34:50:COM_OPEN: Return [0]
+06.01.2003 - 14:34:50:COM_OPEN: Use direct connection
+06.01.2003 - 14:34:51:Device COM1 opened
+06.01.2003 - 14:35:00:Flushing receivequeue
+06.01.2003 - 14:35:00:Flushing transmitqueue
+06.01.2003 - 14:35:00:Trying to close communicationport
+06.01.2003 - 14:35:00:Communcationport closed
+06.01.2003 - 14:35:24:Flushing receivequeue
+06.01.2003 - 14:35:24:Wrong handle
+06.01.2003 - 14:35:24:Try opening device [COM1]
+06.01.2003 - 14:35:24:COM_OPEN: Return [0]
+06.01.2003 - 14:35:24:COM_OPEN: Use direct connection
+06.01.2003 - 14:35:24:Device COM1 opened
+06.01.2003 - 14:36:49:Flushing receivequeue
+06.01.2003 - 14:36:49:Flushing transmitqueue
+06.01.2003 - 14:36:49:Trying to close communicationport
+06.01.2003 - 14:36:49:Communcationport closed
+06.01.2003 - 14:39:37:Try opening device [COM1]
+06.01.2003 - 14:39:37:COM_OPEN: Return [0]
+06.01.2003 - 14:39:37:COM_OPEN: Use direct connection
+06.01.2003 - 14:39:37:Device COM1 opened
+06.01.2003 - 14:39:41:Flushing receivequeue
+06.01.2003 - 14:39:41:Flushing transmitqueue
+06.01.2003 - 14:39:41:Trying to close communicationport
+06.01.2003 - 14:39:41:Communcationport closed
+06.01.2003 - 15:20:41:Try opening device [COM1]
+06.01.2003 - 15:20:41:COM_OPEN: Return [0]
+06.01.2003 - 15:20:41:COM_OPEN: Use direct connection
+06.01.2003 - 15:20:41:Device COM1 opened
+06.01.2003 - 15:20:45:Flushing receivequeue
+06.01.2003 - 15:20:45:Flushing transmitqueue
+06.01.2003 - 15:20:45:Trying to close communicationport
+06.01.2003 - 15:20:45:Communcationport closed
+06.01.2003 - 15:20:53:Flushing receivequeue
+06.01.2003 - 15:20:53:Wrong handle
+06.01.2003 - 15:20:53:Try opening device [COM1]
+06.01.2003 - 15:20:53:COM_OPEN: Return [0]
+06.01.2003 - 15:20:53:COM_OPEN: Use direct connection
+06.01.2003 - 15:20:53:Device COM1 opened
+06.01.2003 - 15:20:54:Flushing receivequeue
+06.01.2003 - 15:20:54:Flushing transmitqueue
+06.01.2003 - 15:20:54:Trying to close communicationport
+06.01.2003 - 15:20:54:Communcationport closed
+06.01.2003 - 15:38:16:Try opening device [COM1]
+06.01.2003 - 15:38:16:COM_OPEN: Return [0]
+06.01.2003 - 15:38:16:COM_OPEN: Use direct connection
+06.01.2003 - 15:38:16:Device COM1 opened
+06.01.2003 - 15:38:17:Flushing receivequeue
+06.01.2003 - 15:38:17:Flushing transmitqueue
+06.01.2003 - 15:38:17:Trying to close communicationport
+06.01.2003 - 15:38:17:Communcationport closed
+06.01.2003 - 15:39:09:Try opening device [COM1]
+06.01.2003 - 15:39:09:COM_OPEN: Return [0]
+06.01.2003 - 15:39:09:COM_OPEN: Use direct connection
+06.01.2003 - 15:39:09:Device COM1 opened
+06.01.2003 - 15:39:32:Transmit string [hiA] with BCC 43
+06.01.2003 - 15:41:51:Try opening device [COM1]
+06.01.2003 - 15:41:51:COM_OPEN: Return [0]
+06.01.2003 - 15:41:51:COM_OPEN: Use direct connection
+06.01.2003 - 15:41:52:Device COM1 opened
+06.01.2003 - 15:41:52:Transmit string [hiA] with BCC 43
+06.01.2003 - 16:02:47:Try opening device [COM1]
+06.01.2003 - 16:02:48:COM_OPEN: Return [0]
+06.01.2003 - 16:02:48:COM_OPEN: Use direct connection
+06.01.2003 - 16:02:48:Device COM1 opened
+06.01.2003 - 16:02:48:Transmit string [hiA] with BCC 43
+06.01.2003 - 16:03:18:Receive timeout
+06.01.2003 - 16:03:18:Transmit string [hiA] with BCC 43
+06.01.2003 - 16:04:01:Try opening device [COM1]
+06.01.2003 - 16:04:01:COM_OPEN: Return [0]
+06.01.2003 - 16:04:01:COM_OPEN: Use direct connection
+06.01.2003 - 16:04:01:Device COM1 opened
+06.01.2003 - 16:04:01:Transmit string [hiA] with BCC 43
+06.01.2003 - 16:04:58:Try opening device [COM1]
+06.01.2003 - 16:04:58:COM_OPEN: Return [0]
+06.01.2003 - 16:04:58:COM_OPEN: Use direct connection
+06.01.2003 - 16:04:58:Device COM1 opened
+06.01.2003 - 16:04:58:Transmit string [hiA] with BCC 43
+06.01.2003 - 16:05:28:Receive timeout
+06.01.2003 - 16:05:28:Transmit string [hiA] with BCC 43
+06.01.2003 - 16:05:58:Receive timeout
+06.01.2003 - 16:05:58:Transmit string [hiA] with BCC 43
+06.01.2003 - 16:06:29:Receive timeout
+06.01.2003 - 16:06:29:Transmit string [hiA] with BCC 43
+06.01.2003 - 16:06:59:Receive timeout
+06.01.2003 - 16:06:59:Transmit string [hiA] with BCC 43
+07.01.2003 - 8:32:06:Try opening device [COM1]
+07.01.2003 - 8:32:06:COM_OPEN: Return [0]
+07.01.2003 - 8:32:06:COM_OPEN: Use direct connection
+07.01.2003 - 8:32:06:Device COM1 opened
+07.01.2003 - 8:32:06:Transmit string [00020700000001000010590000000085297AL. KIFLA LT SAÒMARMELADOM 70 GÒDOBAVLJAÈ: ALASTOR D.O.O.ÒUL. JABLANOVA 27, OSIJEK                  000001000000000000000000000000000000000000000000000000000000000005000001000000000
+0002080000000100001059020001060601010101010100000001000000000000000000000000000000000000000000000000000000000000000000000000000000
+] with BCC 6F
+07.01.2003 - 8:36:36:Try opening device [COM1]
+07.01.2003 - 8:36:37:COM_OPEN: Return [0]
+07.01.2003 - 8:36:37:COM_OPEN: Use direct connection
+07.01.2003 - 8:36:37:Device COM1 opened
+07.01.2003 - 8:37:25:Transmit string [00020700000001000010550000000085289AL. BUREK SAÒMESOM 250 GÒDOBAVLJAÈ: ALASTOR D.O.O.ÒUL. JABLANOVA 27, OSIJEK                         000001000000000000000000000000000000000000000000000000000000000005000001000000000
+0002080000000100001055020001060601010101010100000001000000000000000000000000000000000000000000000000000000000000000000000000000000
+00020700000001000009090000000012233ACCRA PURECAÒSUNKARICA                                                                              000001000000000000000000000000000000000000000000000000000000000001000000000000000
+0002080000000100000909020001060601010101010100000001000000000000000000000000000000000000000000000000000000000000000000000000000000
+] with BCC E9
+07.01.2003 - 9:39:38:Try opening device [COM1]
+07.01.2003 - 9:39:38:COM_OPEN: Return [0]
+07.01.2003 - 9:39:38:COM_OPEN: Use direct connection
+07.01.2003 - 9:39:38:Device COM1 opened
