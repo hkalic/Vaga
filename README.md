@@ -6,8 +6,8 @@ This is for communicating with Mettler scales (using transl).
 Connect to MS SQL Server, fetch data, send data with information like Name of product, price etc.
 There is basic after fetch data editing (just in case).
 
-File with commands: vaga.kom
-File with response: vaga.odg
+File with commands: **[vaga.kom](https://github.com/hkalic/Vaga/blob/master/vaga.kom)**
+File with response: **[vaga.odg](https://github.com/hkalic/Vaga/blob/master/vaga.odg)**
 
 Also credits for this project goes to my co-author Domino.
 
